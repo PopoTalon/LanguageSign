@@ -3,7 +3,7 @@
 	<info>
 		<name>Languages</name>
 		<update version="0.0.1">
-			<file name="sign.xml" url="https://raw.githubusercontent.com/PopoTalon/languagesign/CommonSign/sign.xml" />
+			<file name="sign.xml" url="https://raw.githubusercontent.com/PopoTalon/LanguageSign/refs/heads/main/CommonSign/sign.xml" />
 		</update>
 	</info>
 
