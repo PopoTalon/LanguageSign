@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>Languages</name>
+		<update version="0.0.1">
+			<file name="sign.xml" url="https://raw.githubusercontent.com/PopoTalon/languagesign/CommonSign/sign.xml" />
+		</update>
+	</info>
+
+	<!-- standard -->
+	<element name="Common Sign Language" type="Language" source="Talon" id="ID_LANGUAGE_COMMON">
+		<supports>Standard</supports>
+		<description>
+			<p>Typically spoken by humans.</p>
+		</description>
+		<setters>
+			<set name="standard">true</set>
+			<set name="speakers">Humans</set>
+			<set name="script">Common</set>
+		</setters>
+	</element>
+</elements>
