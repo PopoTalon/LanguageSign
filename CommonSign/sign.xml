@@ -6,8 +6,6 @@
 			<file name="sign.xml" url="https://raw.githubusercontent.com/PopoTalon/LanguageSign/refs/heads/main/CommonSign/sign.xml" />
 		</update>
 	</info>
-
-	<!-- standard -->
 	<element name="Common Sign Language" type="Language" source="Talon" id="ID_LANGUAGE_COMMON">
 		<supports>Standard</supports>
 		<description>
